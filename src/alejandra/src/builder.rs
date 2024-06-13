@@ -96,7 +96,7 @@ fn build_step(
                 add_token(
                     builder,
                     rnix::SyntaxKind::TOKEN_WHITESPACE,
-                    &format!("{0:<1$}", "", 2 * build_ctx.indentation),
+                    &format!("{0:<1$}", "", 4 * build_ctx.indentation),
                 );
             }
         }
