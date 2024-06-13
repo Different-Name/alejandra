@@ -201,7 +201,7 @@ $ alejandra --help
   }
   ```
 
-## Do I need to configure anything?
+## Can I configure anything?
 
 - No.
 
